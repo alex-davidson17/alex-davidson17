@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hey! Hi! Howdy! I'm Alex. 🤠
 
-[Snake animation](https://github.com/alex-davidson17/alex-davidson17/blob/output/github-contribution-grid-snake.svg)
+Pronouns: They/Them
+
+
+
+![Snake animation](https://github.com/alex-davidson17/alex-davidson17/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **alex-davidson17/alex-davidson17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
